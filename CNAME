@@ -1,8 +1,1 @@
 quartzclothing.me
-.mailquartzclothing.me IN CNAME privateemail.com.
-MX mx1.privateemail.com.
-TXT v=spf1 include:spf.privateemail.com ~all
-MX mx2.privateemail.com.
-.autodiscoverquartzclothing.me IN CNAME privateemail.com.
-.autoconfigquartzclothing.me IN CNAME privateemail.com.
-._autodiscover._tcpquartzclothing.me IN SRV 0 443 privateemail.com.
