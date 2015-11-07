@@ -1,9 +1,8 @@
-/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
-/**
+/** todo?
  * 1. Set default font family to sans-serif.
  * 2. Prevent iOS text size adjust after orientation change, without disabling
- *    user zoom.
+ *    user zoom. Poss. ask on reddit
  */
 
 html {
@@ -20,14 +19,11 @@ body {
   margin: 0;
 }
 
-/* HTML5 display definitions
+/* HTML5 display definitions obvs empty
    ========================================================================== */
 
 /**
- * Correct `block` display not defined for any HTML5 element in IE 8/9.
- * Correct `block` display not defined for `details` or `summary` in IE 10/11
- * and Firefox.
- * Correct `block` display not defined for `main` in IE 11.
+
  */
 
 article,
@@ -61,7 +57,6 @@ video {
 
 /**
  * Prevent modern browsers from displaying `audio` without controls.
- * Remove excess height in iOS 5 devices.
  */
 
 audio:not([controls]) {
@@ -83,7 +78,7 @@ template {
    ========================================================================== */
 
 /**
- * Remove the gray background color from active links in IE 10.
+ * Remove the grey background colour from active links in IE 10.
  */
 
 a {
@@ -242,8 +237,8 @@ samp {
  */
 
 /**
- * 1. Correct color not being inherited.
- *    Known issue: affects color of disabled elements.
+ * 1. Correct colour not being inherited.
+ *    Known issue: affects colour of disabled elements.
  * 2. Correct font properties not being inherited.
  * 3. Address margins set differently in Firefox 4+, Safari, and Chrome.
  */
@@ -323,8 +318,8 @@ input {
 }
 
 /**
- * It's recommended that you don't attempt to style these elements.
- * Firefox's implementation doesn't respect box-sizing, padding, or width.
+ * NO STYLING THESE - FIREFOX SAYS NO
+ * "Firefox's implementation doesn't respect box-sizing, padding, or width."
  *
  * 1. Address box sizing set to `content-box` in IE 8/9/10.
  * 2. Remove excess padding in IE 8/9/10.
