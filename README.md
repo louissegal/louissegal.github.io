@@ -1,3 +1,3 @@
-# quartzclothing.github.io
+# louissegal.github.io
 
 GitHub repository for the Quartz Clothing website. 
