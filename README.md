@@ -1,3 +1,0 @@
-#Quartz Clothing
-
-hi
