@@ -7,8 +7,8 @@ html, body, ul, li, h1, h2, p {
 
 /* Declares font family, text colour and adds a subtle pattern to the background */
 body {
- /* font-family: 'Open Sans', sans-serif; */
-  font-family: 'Roboto', sans-serif;
+ font-family: 'Open Sans', sans-serif;
+  /* font-family: 'Roboto', sans-serif; */
 
   color: #2c3e50;
   background-image: url('img/texture.png');
