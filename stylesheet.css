@@ -55,7 +55,7 @@ a:hover {
   color: darkred;
 }
 
-/* Style our header tags */
+/* Style header tags */
 h1, h2 {
   font-weight: 700;
 }
@@ -71,26 +71,17 @@ h2 {
 }
 
 
-/* Adds some space around our bio */
+/* Adds some space around bio */
 p {
   padding: 20px 0;
 }
 
 
-/* Style our 'available' and 'unavailable' classes */
-.available, .unavailable {
+.email {
   width: 60%;
   margin:10px auto 20px;
   border-radius: 3px;
   padding: 14px 0;
-}
-
-.available {
-  color: #fff;
-  background-color: #2ecc71;
-}
-
-.unavailable {
   color: #999;
   background-color: #eee;
 }
