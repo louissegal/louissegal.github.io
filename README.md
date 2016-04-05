@@ -19,3 +19,6 @@ Suggestions
 -------------
 
 You can fork out a copy but if you do that then you're weird but if it's good then I'll still probably merge it. 
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/louissegal/louissegal.github.io/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
